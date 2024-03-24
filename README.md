@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalnaveed&label=Profile%20views&color=0e75b6&style=flat" alt="arsalnaveed" /> </p>
 
-- 🔭 I’m currently working on [Exploratory Data Analysis with python](https://github.com/ArsalNaveed/AICP)
+- 🔭 I’m currently working on **Python, Microsoft Power BI and SQL**
 
-- 🌱 I’m currently learning **python, Microsoft PowerBI and Tableau**
+- 🌱 I’m currently learning **Microsoft PowerBI and Tableau**
 
 - 💬 Ask me about **Data Analytics!**
 
